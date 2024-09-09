@@ -12,3 +12,5 @@ The demo was meant to be run on the PIC32MX470F512L which appears on the DM32000
 The only modification that needs to be done to MPLab is to install the PIC32 Peripheral Library for the xc32 compiler.
 The download link can be found at https://www.microchip.com/SWLibraryWeb/product.aspx?product=PIC32%20Peripheral%20Library
 Once it is downloaded it has instructions on how to install the extra libraries needed. 
+NOTE: Some Fubarino Mini come equipped with the PIC32MX270F256D. This chip is essentailly identical to the PIC32MX250F128D, but it has greater amount of memory.
+If you do have the PIC32MX270F256D just change the chip type in the project properties.
