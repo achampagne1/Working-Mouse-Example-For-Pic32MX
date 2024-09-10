@@ -1,5 +1,6 @@
 # Working-Mouse-Example-For-Pic32MX
 This project is to serve as a working plug and play example of the Microchip PIC32 USK USB Device - HID Mouse Demo on the PIC32MX250F128D using the xc32 compiler.
+All this project does is allows your Dev board to be seen as a mouse on your windows machine and move your cursor in circles around the screen.
 The initial demo project can be found here at https://www.microchip.com/en-us/development-tool/DM320003-2 under the documentation tab.
 The Debugger used is the SNAP Debugger. This example does not use Mplab harmony.
 
